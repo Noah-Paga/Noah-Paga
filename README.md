@@ -1,2 +1,2 @@
 ## Hi there 👋
-Student in Chemical Engineering at EPFL
+I am a chemical engineer at EPFL!
